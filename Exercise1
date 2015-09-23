@@ -1,0 +1,9 @@
+nums= [3, 5]
+answer=0
+for num in nums:
+  for i in range(1, 1000):
+    if num*i<1000:
+      answer+=num*i
+print (answer)
+
+
