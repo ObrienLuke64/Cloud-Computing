@@ -4,6 +4,9 @@
 
 def reverse():		#Everything happens in this function
 	x = input('Enter your string: ')
-
-
+	y = x[::-1]	#y is the reverse of x by using the step
+	if x==y:	#Is the input the same backwards?
+		return true	
+	else:
+		return false
 reverse()
