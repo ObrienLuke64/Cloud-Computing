@@ -1,0 +1,13 @@
+#Luke O'Brien
+#C13435702
+#Euler 25
+
+def fib():
+	a=0
+	b=1
+	for i in range (0, n):
+		x = str(a)
+		if len(x) == 1000:
+			print "Answer =  " % i
+
+fib()
