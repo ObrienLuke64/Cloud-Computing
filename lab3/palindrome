@@ -1,3 +1,9 @@
 #Luke O'Brien
 #C13435702
 #Program to check if input is a palindrome
+
+def reverse():		#Everything happens in this function
+	x = input('Enter your string: ')
+
+
+reverse()
